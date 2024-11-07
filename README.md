@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm aziz lassoued</h1>
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
-<img    align="right" alt="coding" width="400" src="https://scontent.ftun10-2.fna.fbcdn.net/v/t39.30808-1/455271655_2498074230581121_154591112014725491_n.jpg?stp=c0.13.945.945a_dst-jpg_s200x200&_nc_cat=109&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=hDM1z4B1zokQ7kNvgG1s3Bi&_nc_zt=24&_nc_ht=scontent.ftun10-2.fna&_nc_gid=AQIOped-wAEJ1G8i6qhZEcU&oh=00_AYBL64jpgBrxPH4RlNiJfvOzz3vtzWaer-9MOmaKByAFqg&oe=67330DAD">
+<img    align="right" alt="coding" width="400" src="https://c4.wallpaperflare.com/wallpaper/544/879/764/video-game-game-dev-tycoon-wallpaper-preview.jpg">
 - 🔭I’m currently working at Tunisie Immobilier Company as a Full Stack Developer
 
 - 👨‍💻 All of my projects are available at [https://azizlassoued.netlify.app/](https://azizlassoued.netlify.app/)
